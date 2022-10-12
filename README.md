@@ -1,0 +1,1 @@
+This project demonstrates my ability to import and utilize libraries with various calls to make a simple calculator that allows me to apply an operator to a list of n-length.
